@@ -1,0 +1,18 @@
+# Actividad
+ooo
+paises=["Colombia", "Alemania", "Argentina", "Brazil", "Japon"]
+print(paises)
+X=sorted(paises)
+print(X)
+print(paises)
+Y=sorted(paises,reverse=True)
+print(Y)
+print(paises)
+paises.reverse
+print(paises)
+paises.reverse
+print(paises)
+paises.sort()
+print(paises)
+paises.sort(reverse=True)
+print(paises)
